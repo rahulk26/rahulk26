@@ -3,7 +3,8 @@
 My name is Rahul, and I'm a UIUC Data Science graduate interested in AI & Machine Learning!
 
 - 🔭 I’m currently working on Budgie, a Personalized Financial Budgeting AI Agent!
-- 🌱 Check it out [here](https://github.com/rahulk26/plaid-budget-agent)! 
+  - 🌱 Check it out [here](https://github.com/rahulk26/plaid-budget-agent)!
+- 📫 How to reach me: rahul.kasibhatla@gmail.com
 
 
 <!--
