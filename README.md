@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Rahul, and I'm a UIUC Data Science graduate interested in AI & Machine Learning!
+
+- 🔭 I’m currently working on Budgie, a Personalized Financial Budgeting AI Agent!
+- 🌱 Check it out [here](https://github.com/rahulk26/plaid-budget-agent)! 
 
 
 <!--
